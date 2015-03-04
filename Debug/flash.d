@@ -1,0 +1,10 @@
+.\debug\flash.o: D:\TI\TivaWare\driverlib\flash.c
+.\debug\flash.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h
+.\debug\flash.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\debug\flash.o: D:\TI\TivaWare\inc/hw_flash.h
+.\debug\flash.o: D:\TI\TivaWare\inc/hw_ints.h
+.\debug\flash.o: D:\TI\TivaWare\inc/hw_sysctl.h
+.\debug\flash.o: D:\TI\TivaWare\inc/hw_types.h
+.\debug\flash.o: D:\TI\TivaWare\driverlib/debug.h
+.\debug\flash.o: D:\TI\TivaWare\driverlib/flash.h
+.\debug\flash.o: D:\TI\TivaWare\driverlib/interrupt.h

@@ -1,0 +1,11 @@
+.\debug\ssi.o: D:\TI\TivaWare\driverlib\ssi.c
+.\debug\ssi.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h
+.\debug\ssi.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\debug\ssi.o: D:\TI\TivaWare\inc/hw_ints.h
+.\debug\ssi.o: D:\TI\TivaWare\inc/hw_memmap.h
+.\debug\ssi.o: D:\TI\TivaWare\inc/hw_ssi.h
+.\debug\ssi.o: D:\TI\TivaWare\inc/hw_sysctl.h
+.\debug\ssi.o: D:\TI\TivaWare\inc/hw_types.h
+.\debug\ssi.o: D:\TI\TivaWare\driverlib/debug.h
+.\debug\ssi.o: D:\TI\TivaWare\driverlib/interrupt.h
+.\debug\ssi.o: D:\TI\TivaWare\driverlib/ssi.h

@@ -1,0 +1,9 @@
+.\debug\systick.o: D:\TI\TivaWare\driverlib\systick.c
+.\debug\systick.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h
+.\debug\systick.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\debug\systick.o: D:\TI\TivaWare\inc/hw_ints.h
+.\debug\systick.o: D:\TI\TivaWare\inc/hw_nvic.h
+.\debug\systick.o: D:\TI\TivaWare\inc/hw_types.h
+.\debug\systick.o: D:\TI\TivaWare\driverlib/debug.h
+.\debug\systick.o: D:\TI\TivaWare\driverlib/interrupt.h
+.\debug\systick.o: D:\TI\TivaWare\driverlib/systick.h

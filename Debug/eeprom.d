@@ -1,0 +1,13 @@
+.\debug\eeprom.o: D:\TI\TivaWare\driverlib\eeprom.c
+.\debug\eeprom.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h
+.\debug\eeprom.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\debug\eeprom.o: D:\TI\TivaWare\inc/hw_eeprom.h
+.\debug\eeprom.o: D:\TI\TivaWare\inc/hw_flash.h
+.\debug\eeprom.o: D:\TI\TivaWare\inc/hw_ints.h
+.\debug\eeprom.o: D:\TI\TivaWare\inc/hw_sysctl.h
+.\debug\eeprom.o: D:\TI\TivaWare\inc/hw_types.h
+.\debug\eeprom.o: D:\TI\TivaWare\driverlib/debug.h
+.\debug\eeprom.o: D:\TI\TivaWare\driverlib/flash.h
+.\debug\eeprom.o: D:\TI\TivaWare\driverlib/interrupt.h
+.\debug\eeprom.o: D:\TI\TivaWare\driverlib/sysctl.h
+.\debug\eeprom.o: D:\TI\TivaWare\driverlib/eeprom.h

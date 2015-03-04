@@ -1,0 +1,9 @@
+.\debug\udma.o: D:\TI\TivaWare\driverlib\udma.c
+.\debug\udma.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h
+.\debug\udma.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\debug\udma.o: D:\TI\TivaWare\inc/hw_sysctl.h
+.\debug\udma.o: D:\TI\TivaWare\inc/hw_types.h
+.\debug\udma.o: D:\TI\TivaWare\inc/hw_udma.h
+.\debug\udma.o: D:\TI\TivaWare\driverlib/debug.h
+.\debug\udma.o: D:\TI\TivaWare\driverlib/interrupt.h
+.\debug\udma.o: D:\TI\TivaWare\driverlib/udma.h

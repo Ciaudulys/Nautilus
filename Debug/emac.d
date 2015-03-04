@@ -1,0 +1,12 @@
+.\debug\emac.o: D:\TI\TivaWare\driverlib\emac.c
+.\debug\emac.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h
+.\debug\emac.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\debug\emac.o: D:\TI\TivaWare\inc/hw_ints.h
+.\debug\emac.o: D:\TI\TivaWare\inc/hw_memmap.h
+.\debug\emac.o: D:\TI\TivaWare\inc/hw_types.h
+.\debug\emac.o: D:\TI\TivaWare\inc/hw_emac.h
+.\debug\emac.o: D:\TI\TivaWare\driverlib/debug.h
+.\debug\emac.o: D:\TI\TivaWare\driverlib/emac.h
+.\debug\emac.o: D:\TI\TivaWare\driverlib/sysctl.h
+.\debug\emac.o: D:\TI\TivaWare\driverlib/interrupt.h
+.\debug\emac.o: D:\TI\TivaWare\driverlib/sw_crc.h

@@ -1,0 +1,12 @@
+.\debug\sysctl.o: D:\TI\TivaWare\driverlib\sysctl.c
+.\debug\sysctl.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h
+.\debug\sysctl.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\debug\sysctl.o: D:\TI\TivaWare\inc/hw_ints.h
+.\debug\sysctl.o: D:\TI\TivaWare\inc/hw_nvic.h
+.\debug\sysctl.o: D:\TI\TivaWare\inc/hw_sysctl.h
+.\debug\sysctl.o: D:\TI\TivaWare\inc/hw_types.h
+.\debug\sysctl.o: D:\TI\TivaWare\inc/hw_flash.h
+.\debug\sysctl.o: D:\TI\TivaWare\driverlib/cpu.h
+.\debug\sysctl.o: D:\TI\TivaWare\driverlib/debug.h
+.\debug\sysctl.o: D:\TI\TivaWare\driverlib/interrupt.h
+.\debug\sysctl.o: D:\TI\TivaWare\driverlib/sysctl.h

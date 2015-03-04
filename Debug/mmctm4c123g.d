@@ -1,0 +1,13 @@
+.\debug\mmctm4c123g.o: UserLib\SD_card\MmcTm4c123g.c
+.\debug\mmctm4c123g.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\debug\mmctm4c123g.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h
+.\debug\mmctm4c123g.o: D:\TI\TivaWare\inc/hw_memmap.h
+.\debug\mmctm4c123g.o: D:\TI\TivaWare\inc/hw_types.h
+.\debug\mmctm4c123g.o: D:\TI\TivaWare\inc\hw_ssi.h
+.\debug\mmctm4c123g.o: D:\TI\TivaWare\driverlib/gpio.h
+.\debug\mmctm4c123g.o: D:\TI\TivaWare\driverlib/rom.h
+.\debug\mmctm4c123g.o: D:\TI\TivaWare\driverlib/ssi.h
+.\debug\mmctm4c123g.o: D:\TI\TivaWare\driverlib/sysctl.h
+.\debug\mmctm4c123g.o: D:\TI\TivaWare\driverlib\pin_map.h
+.\debug\mmctm4c123g.o: .\UserLib\SD_card/diskio.h
+.\debug\mmctm4c123g.o: .\UserLib\SD_card/integer.h

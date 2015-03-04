@@ -1,0 +1,9 @@
+.\debug\sysexc.o: D:\TI\TivaWare\driverlib\sysexc.c
+.\debug\sysexc.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h
+.\debug\sysexc.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\debug\sysexc.o: D:\TI\TivaWare\inc/hw_ints.h
+.\debug\sysexc.o: D:\TI\TivaWare\inc/hw_sysctl.h
+.\debug\sysexc.o: D:\TI\TivaWare\inc/hw_sysexc.h
+.\debug\sysexc.o: D:\TI\TivaWare\inc/hw_types.h
+.\debug\sysexc.o: D:\TI\TivaWare\driverlib/debug.h
+.\debug\sysexc.o: D:\TI\TivaWare\driverlib/interrupt.h

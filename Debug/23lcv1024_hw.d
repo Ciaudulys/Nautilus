@@ -1,0 +1,16 @@
+.\debug\23lcv1024_hw.o: UserLib\23LCV1024_hw.c
+.\debug\23lcv1024_hw.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\debug\23lcv1024_hw.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\debug\23lcv1024_hw.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h
+.\debug\23lcv1024_hw.o: D:\TI\TivaWare\inc\tm4c123gh6pm.h
+.\debug\23lcv1024_hw.o: D:\TI\TivaWare\inc/hw_gpio.h
+.\debug\23lcv1024_hw.o: D:\TI\TivaWare\inc/hw_memmap.h
+.\debug\23lcv1024_hw.o: D:\TI\TivaWare\inc/hw_sysctl.h
+.\debug\23lcv1024_hw.o: D:\TI\TivaWare\inc/hw_types.h
+.\debug\23lcv1024_hw.o: D:\TI\TivaWare\inc\hw_ssi.h
+.\debug\23lcv1024_hw.o: D:\TI\TivaWare\driverlib\gpio.h
+.\debug\23lcv1024_hw.o: D:\TI\TivaWare\driverlib\ssi.h
+.\debug\23lcv1024_hw.o: D:\TI\TivaWare\driverlib\pin_map.h
+.\debug\23lcv1024_hw.o: D:\TI\TivaWare\driverlib\sysctl.h
+.\debug\23lcv1024_hw.o: D:\TI\TivaWare\driverlib\udma.h
+.\debug\23lcv1024_hw.o: UserLib\23LCV1024_hw.h

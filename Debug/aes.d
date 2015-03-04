@@ -1,0 +1,12 @@
+.\debug\aes.o: D:\TI\TivaWare\driverlib\aes.c
+.\debug\aes.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\debug\aes.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h
+.\debug\aes.o: D:\TI\TivaWare\inc/hw_aes.h
+.\debug\aes.o: D:\TI\TivaWare\inc/hw_ccm.h
+.\debug\aes.o: D:\TI\TivaWare\inc/hw_ints.h
+.\debug\aes.o: D:\TI\TivaWare\inc/hw_memmap.h
+.\debug\aes.o: D:\TI\TivaWare\inc/hw_nvic.h
+.\debug\aes.o: D:\TI\TivaWare\inc/hw_types.h
+.\debug\aes.o: D:\TI\TivaWare\driverlib/aes.h
+.\debug\aes.o: D:\TI\TivaWare\driverlib/debug.h
+.\debug\aes.o: D:\TI\TivaWare\driverlib/interrupt.h

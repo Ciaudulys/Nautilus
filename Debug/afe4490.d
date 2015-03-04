@@ -1,0 +1,12 @@
+.\debug\afe4490.o: UserLib\AFE4490.c
+.\debug\afe4490.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\debug\afe4490.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\debug\afe4490.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h
+.\debug\afe4490.o: D:\TI\TivaWare\inc\tm4c123gh6pm.h
+.\debug\afe4490.o: D:\TI\TivaWare\inc\hw_memmap.h
+.\debug\afe4490.o: D:\TI\TivaWare\driverlib\gpio.h
+.\debug\afe4490.o: D:\TI\TivaWare\driverlib\ssi.h
+.\debug\afe4490.o: D:\TI\TivaWare\driverlib\pin_map.h
+.\debug\afe4490.o: D:\TI\TivaWare\driverlib\sysctl.h
+.\debug\afe4490.o: UserLib\AFE4490.h
+.\debug\afe4490.o: UserLib\AFE4490_TM4C123GH6PMI_hw.h

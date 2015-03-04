@@ -1,0 +1,11 @@
+.\debug\gpio.o: D:\TI\TivaWare\driverlib\gpio.c
+.\debug\gpio.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h
+.\debug\gpio.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\debug\gpio.o: D:\TI\TivaWare\inc/hw_gpio.h
+.\debug\gpio.o: D:\TI\TivaWare\inc/hw_ints.h
+.\debug\gpio.o: D:\TI\TivaWare\inc/hw_memmap.h
+.\debug\gpio.o: D:\TI\TivaWare\inc/hw_sysctl.h
+.\debug\gpio.o: D:\TI\TivaWare\inc/hw_types.h
+.\debug\gpio.o: D:\TI\TivaWare\driverlib/debug.h
+.\debug\gpio.o: D:\TI\TivaWare\driverlib/gpio.h
+.\debug\gpio.o: D:\TI\TivaWare\driverlib/interrupt.h

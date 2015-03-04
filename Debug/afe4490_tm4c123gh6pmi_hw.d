@@ -1,0 +1,11 @@
+.\debug\afe4490_tm4c123gh6pmi_hw.o: UserLib\AFE4490_TM4C123GH6PMI_hw.c
+.\debug\afe4490_tm4c123gh6pmi_hw.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\debug\afe4490_tm4c123gh6pmi_hw.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\debug\afe4490_tm4c123gh6pmi_hw.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h
+.\debug\afe4490_tm4c123gh6pmi_hw.o: D:\TI\TivaWare\inc\tm4c123gh6pm.h
+.\debug\afe4490_tm4c123gh6pmi_hw.o: D:\TI\TivaWare\inc\hw_memmap.h
+.\debug\afe4490_tm4c123gh6pmi_hw.o: D:\TI\TivaWare\driverlib\gpio.h
+.\debug\afe4490_tm4c123gh6pmi_hw.o: D:\TI\TivaWare\driverlib\ssi.h
+.\debug\afe4490_tm4c123gh6pmi_hw.o: D:\TI\TivaWare\driverlib\pin_map.h
+.\debug\afe4490_tm4c123gh6pmi_hw.o: D:\TI\TivaWare\driverlib\sysctl.h
+.\debug\afe4490_tm4c123gh6pmi_hw.o: UserLib\AFE4490_TM4C123GH6PMI_hw.h

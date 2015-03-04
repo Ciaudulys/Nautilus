@@ -1,0 +1,13 @@
+.\debug\usb.o: D:\TI\TivaWare\driverlib\usb.c
+.\debug\usb.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h
+.\debug\usb.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\debug\usb.o: D:\TI\TivaWare\inc/hw_ints.h
+.\debug\usb.o: D:\TI\TivaWare\inc/hw_memmap.h
+.\debug\usb.o: D:\TI\TivaWare\inc/hw_types.h
+.\debug\usb.o: D:\TI\TivaWare\inc/hw_sysctl.h
+.\debug\usb.o: D:\TI\TivaWare\inc/hw_usb.h
+.\debug\usb.o: D:\TI\TivaWare\driverlib/debug.h
+.\debug\usb.o: D:\TI\TivaWare\driverlib/interrupt.h
+.\debug\usb.o: D:\TI\TivaWare\driverlib/sysctl.h
+.\debug\usb.o: D:\TI\TivaWare\driverlib/udma.h
+.\debug\usb.o: D:\TI\TivaWare\driverlib/usb.h
