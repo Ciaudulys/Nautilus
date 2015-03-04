@@ -32,6 +32,7 @@
 //#include "RRrecognition.h"
 #include "Filtrai.h"
 
+
 //global variables
 uint32_t tmp; //bendros paskirties kintamasis
 uint32_t min_msg = 10; //Message box pilnumo tikrinimas
